@@ -1,2 +1,3 @@
-The Odin Project HTML/CSS.
-First major attempt.
+The Odin Project.
+Project: HTML/CSS
+author: swardhan
