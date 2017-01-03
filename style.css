@@ -1,0 +1,53 @@
+html {
+  font-family: sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-weight: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+/* Header Section */
+.header {
+  height: 50px;
+  width: 100%;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  display: inline;
+  float: right;
+  margin-right: 10px;
+}
+
+.gmail {
+  font-size: 12px;
+}
+
+.header div{
+  margin-right: 10px;
+}
+
+.gmail {
+  margin-top: 8px;
+}
+
+#signIn {
+  background-color: #4385f7;
+  border-radius: 3px;
+  color: white;
+  text-shadow: none;
+  border-style: none;
+  height:30px;
+  width: 86px;
+  font-weight: bold;
+}
+
+/*Middle Section*/
